@@ -1,6 +1,6 @@
 {
   "name": "@arashmilani/svg-snabbdom-loader",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Webpack svg-files to snabbdom vdom loader",
   "main": "index.js",
   "license": "MIT",
